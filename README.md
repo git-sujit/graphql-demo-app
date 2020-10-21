@@ -1,2 +1,2 @@
-# graphql-spring-app-for-demo
+# graphql-demo-app
 Sample REST APIs for the demo of GraphQL-Spring
